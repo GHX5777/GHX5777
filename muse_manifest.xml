@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ghxstradius.com" resolutions="1x" timestamp="1741408260853">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ghxstradius.com" resolutions="1x" timestamp="1741408899024">
   <folder name="assets">
     <file name="countdown-widget.mulib" crc="109126344" seo="true" mt="1435144325000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="382806899" ref="index"/>
+    <file name="index.css" crc="3800968595" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,6 +16,15 @@
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="3823888772" ref="index"/>
+    <file name="672774441884975104.gif" crc="9824895" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="650105537765179403.gif" crc="3940923047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="508800672154517535.gif" crc="4049518155" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3863064646" seo="true" mt="1741408253356" redirect="true"/>
+  <file name="index.html" crc="363406474" seo="true" mt="1741408881796" redirect="true"/>
 </manifest>
