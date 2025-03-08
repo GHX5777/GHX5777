@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ghxstradius.com" resolutions="1x" timestamp="1741405034802">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ghxstradius.com" resolutions="1x" timestamp="1741406875591">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="381904272" ref="index"/>
+    <file name="index.css" crc="4211939548" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,5 +14,5 @@
   <folder name="images">
     <file name="favicon.ico" crc="3823888772" ref="index"/>
   </folder>
-  <file name="index.html" crc="152120883" seo="true" mt="1741404918168" redirect="true"/>
+  <file name="index.html" crc="3820491279" seo="true" mt="1741406860395" redirect="true"/>
 </manifest>
